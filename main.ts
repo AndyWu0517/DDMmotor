@@ -1,4 +1,4 @@
-//% weight=0 color=#f5e505 icon="\uf0ad" block="DDMmotor"
+//% weight=0 color=#1205ff icon="\uf085" block="DDMmotor"
 namespace DDMmotor {
 	//% blockId=DDMmotor block="Mcontrol pin %McontrolPin|direction of Mcontrol(0~1) %McontrolValue|MSpeed pin %MSpeedPin|speed of MSpeed(0~255) %MSpeedValue" blockExternalInputs=false
     //% McontrolValue.min=0 McontrolValue.max=1 
